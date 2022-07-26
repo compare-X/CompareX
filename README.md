@@ -51,3 +51,6 @@
   - Open the terminal.
   - Run `git pull upstream main`
     > This will check for any changes that have been made to the original repository, it will then bring those changes to your local machine and merge (merge) the changes.
+
+- #### Where to write your code
+There is a folder in the compare-x folder called html. put your html files in that folder and your css in the folder called styles.
